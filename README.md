@@ -1,5 +1,3 @@
-![screenshot_6](https://github.com/arbaz686/Stock-Management-Frontend/assets/72914115/d85065b0-d788-4bdd-8220-aa0d02a4dc37)# Stock-Management-Frontend
-
 ## Live Demo
 
 There is a live demo, available here:
